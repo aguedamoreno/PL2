@@ -1,0 +1,4 @@
+Cuando guardo un array en JSON se convierte en una lista de valores entre corchetes, esta lista mantiene el orden de los elementos
+y puede contener números, strings, objetos, etc.
+Cuando el array está dentro de un objeto y lo guardo en JSON, se convierte en un atributo más del JSON pero con formato lista,
+así que todo queda en una estructura combinada: objeto + array.

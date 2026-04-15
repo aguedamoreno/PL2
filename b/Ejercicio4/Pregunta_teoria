@@ -1,0 +1,6 @@
+¿Qué estructura tiene el fichero resultante?
+El fichero JSON tiene un objeto principal (Asignatura) que contiene un atributo nombre y un array de estudiantes, cada estudiante es a su vez un objeto con nombre y edad
+
+¿Puedo modificar los alumnos en el fichero resultante, y obtener unos nuevos objetos cargando el fichero de vuelta?
+Sí, el fichero JSON es texto plano, por lo que se puede editar manualmente para cambiar, añadir o eliminar estudiantes
+Sí, al leer el fichero JSON se crean nuevos objetos en Java con los mismos datos que estaban almacenados

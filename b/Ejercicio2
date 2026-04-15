@@ -1,0 +1,4 @@
+Al probar a tener objetos dentro de objetos y transformarlos a JSON, el objeto principal se convierte, normalmente,
+y el objeto interno también; es decir, se mantiene la estructura de ambos pero en formato texto.
+La conclusión es que se genera una estructura anidada donde cada objeto interno se representa como un JSON dentro del principal,
+manteniendo la relación entre ellos.

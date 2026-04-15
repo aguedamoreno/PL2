@@ -1,0 +1,3 @@
+JSON es un formato de texto legible y multiplataforma que facilita el intercambio de datos entre sistemas,
+mientras que la serialización de Java utiliza un formato binario más eficiente pero dependiente del lenguaje y menos flexible.
+Por ello, JSON es más utilizado en aplicaciones modernas.
